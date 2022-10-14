@@ -1,6 +1,6 @@
 ## This is a Github Demonstration Repository
 
-# The format of the repository is as follows:
+### The format of the repository is as follows:
 
 **The folders** 
  * **.github** contains worflows for github actions
