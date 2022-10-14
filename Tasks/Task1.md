@@ -88,3 +88,48 @@ Save modified and staged changes
 
 ![image](https://github.com/bsb4018/ghubtassn/blob/main/Tasks/screenshots/10.PNG)
 
+
+(11)
+```
+git brach <branchname>
+```
+Creates a new branch with branchname
+
+![image](https://github.com/bsb4018/ghubtassn/blob/main/Tasks/screenshots/11.PNG)
+
+
+(12)
+```
+git checkout <branchname>
+```
+Switch to the provided branch
+
+![image](https://github.com/bsb4018/ghubtassn/blob/main/Tasks/screenshots/12.PNG)
+
+
+(13)
+```
+git branch -d <branchname>
+```
+Delete the specified branch
+
+![image](https://github.com/bsb4018/ghubtassn/blob/main/Tasks/screenshots/13.PNG)
+
+
+(14)
+```
+git status
+```
+Shows the status of the modified files.
+
+![image](https://github.com/bsb4018/ghubtassn/blob/main/Tasks/screenshots/14.PNG)
+
+
+(15)
+```
+git merge <branchname>
+```
+Merge the branchname branch into the main branch (provided checked out at main branch)
+
+![image](https://github.com/bsb4018/ghubtassn/blob/main/Tasks/screenshots/15.PNG)
+
